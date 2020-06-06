@@ -63,7 +63,7 @@ def timeraw_import_sherpa_estmethods():
 
 def timeraw_import_sherpa_images():
     return """
-    from sherpa import imges
+    from sherpa import images
     """
 
 

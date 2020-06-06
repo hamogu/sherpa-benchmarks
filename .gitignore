@@ -29,7 +29,7 @@ develop-eggs
 distribute-*.tar.gz
 env
 html
-astropy
+sherpa
 
 # Other
 .cache
